@@ -25,3 +25,7 @@ p {
 strong {
     color: darkblue;
 }
+
+.itens {
+    font-style: italic
+}
