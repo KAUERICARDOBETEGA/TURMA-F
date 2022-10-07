@@ -28,13 +28,17 @@ strong {
 }
 
 .itens {
-    font-style: italic
+    font-style: italic;
 }
 
 .beneficios {
-    background: #FFFFFF
+    background: #FFFFFF;
 }
 
 .principal {
-    background: #CCCCCC
+    background: #CCCCCC;
+}
+
+h2 {
+    text-align: center;
 }
