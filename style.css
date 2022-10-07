@@ -8,6 +8,10 @@ body {
 
 h1{
     text-align: center;
+    height: 150px;
+    border: 10px solid #5286f4;
+    padding-top: 20px;
+    margin: 40px;
 }
 
 p {
