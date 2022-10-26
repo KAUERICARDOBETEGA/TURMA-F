@@ -46,3 +46,8 @@ h2 {
 . imagembeneficios {
     width: 50%;
 }
+
+ul {
+    display: inline-block
+    vertical-align: top
+}
