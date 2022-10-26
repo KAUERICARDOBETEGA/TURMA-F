@@ -1,9 +1,14 @@
 body {
-    background: #CCCCCC;
+   
 }
 
 #Banner {
     width: 100%;
+}
+
+.principal {
+    background: #CCCCCC;
+    padding: 30px;
 }
 
 h1{
@@ -32,6 +37,7 @@ strong {
 
 .beneficios {
     background: #FFFFFF;
+    padding: 20px;
 }
 
 .principal {
@@ -42,11 +48,12 @@ h2 {
     text-align: center;
 }
 
-. imagembeneficios {
-    width: 50%;
-}
-
 ul {
     display: inline-block;
-    vertical-align: top;
+    vertical align: top;
+    width: 20%;
+    margin-right: 15%
+}
+. imagembeneficios {
+    width: 50%;
 }
