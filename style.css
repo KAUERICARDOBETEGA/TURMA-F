@@ -11,7 +11,7 @@ body {
     padding: 30px;
 }
 
-h1{
+.titulo-centralizado {
     text-align: center;
     height: 150px;
     border: 10px solid #000025;
@@ -42,10 +42,6 @@ strong {
 
 .principal {
     background: #CCCCCC;
-}
-
-h2 {
-    text-align: center;
 }
 
 ul {
